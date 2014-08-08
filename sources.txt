@@ -1,0 +1,15 @@
+Java Concurrency in Practice, B. Goetz
+The Art of Multiprocessor Programming, M. Herlihy, N.Shavit
+
+Java Language Specification v7
+Java Virtual Machine Specification v7
+
+The JSR-133 Cookbook for Compiler Writers
+
+The Java Memory Model, J.Manson, W.Pugh
+On Validity of Program Transformations in the Java Memory Model,  J.Sevcik, D.Aspinall
+The Java Memory Model: Operationally, Denotationally, Axiomatically. P.Cenciarelli, A.Knapp, E.Sibilio
+
+What every programmer should know about memory, U.Drepper
+
++ блоги (Mechanical Sympathy) и доклады с конференций
