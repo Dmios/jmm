@@ -12,4 +12,4 @@ The Java Memory Model: Operationally, Denotationally, Axiomatically. P.Cenciarel
 
 What every programmer should know about memory, U.Drepper
 
-+ блоги (Mechanical Sympathy) и доклады с конференций
++ Р·Р°РїРёСЃРё РёР· Р±Р»РѕРіРѕРІ (Mechanical Sympathy) Рё РґРѕРєР»Р°РґС‹ РїРѕ С‚РµРјРµ СЃ РєРѕРЅС„РµСЂРµРЅС†РёР№
